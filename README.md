@@ -1,2 +1,2 @@
 # k-means
-K-means algorithm implementation without scikit
+k-means algorithm implementation without scikit
