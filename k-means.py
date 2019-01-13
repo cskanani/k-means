@@ -167,14 +167,3 @@ for i in range(10):
     write_data(k_means.cluster_index_dict,num_centroids)
     if(k_means.removed_num_clusters != 0):
         write_removed_cluster_info(k_means.min_num_points,k_means.removed_num_clusters,num_centroids)
-
-
-
-
-
-
-
-
-
-
-
